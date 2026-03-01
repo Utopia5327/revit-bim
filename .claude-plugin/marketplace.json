@@ -10,10 +10,7 @@
   "plugins": [
     {
       "name": "revit-bim",
-      "source": {
-        "source": "local",
-        "path": "./"
-      },
+      "source": "./",
       "description": "Connect Claude to Autodesk Revit. Generate Dynamo scripts, audit models, detect clashes, manage parameters, create schedules, export IFC, and automate BIM workflows from plain language.",
       "version": "1.0.0",
       "author": {
